@@ -1,3 +1,3 @@
-'''
+```
 webpack setup without test
-'''
+```
